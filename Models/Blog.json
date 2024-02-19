@@ -1,0 +1,32 @@
+{
+  "blog_posts": [
+    {
+      "id": 1,
+      "title": "5 Effective Cardio Workouts for Weight Loss",
+      "author": "FitnessGuru123",
+      "date": "2024-02-15",
+      "content": "In this blog post, we'll explore five effective cardio workouts that can help you achieve your weight loss goals. From running and cycling to jumping rope and swimming, these workouts are sure to get your heart pumping and your calories burning. Whether you're a beginner or a seasoned fitness enthusiast, there's something for everyone in this comprehensive guide to cardio."
+    },
+    {
+      "id": 2,
+      "title": "The Importance of Proper Nutrition for Muscle Growth",
+      "author": "NutritionExpert456",
+      "date": "2024-02-16",
+      "content": "Nutrition plays a crucial role in muscle growth and recovery. In this blog post, we'll discuss the importance of proper nutrition for maximizing muscle gains. From macronutrients like protein, carbohydrates, and fats to micronutrients like vitamins and minerals, we'll explore how each component contributes to muscle growth and overall fitness. Whether you're a bodybuilder, athlete, or fitness enthusiast, understanding the importance of nutrition is key to achieving your fitness goals."
+    },
+    {
+      "id": 3,
+      "title": "Sopranos",
+      "author": "HBO",
+      "date": "2024-02-18",
+      "content": "the movie is about a Crime"
+    },
+    {
+      "title": "Game of Thrones",
+      "author": "HBO",
+      "date": "2024-02-18",
+      "content": "the movie is about a Houses and each House want's to rules the 7 kingdoms",
+      "id": 4
+    }
+  ]
+}
